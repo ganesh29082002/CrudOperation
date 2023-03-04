@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "node-express-crud-api-2021",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
